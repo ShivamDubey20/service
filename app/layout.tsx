@@ -1,5 +1,4 @@
 import type React from "react"
-import "../basehub.config"
 import { BaseHubImage } from "basehub/next-image"
 import Link from "next/link"
 import "../styles/globals.css"
